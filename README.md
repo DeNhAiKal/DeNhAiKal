@@ -4,6 +4,11 @@
 
 - <b>Mobile Development</b>
   - [PDBuddy App](https://github.com/eightus/ITP-Peritoneal-Dialysis)
+- <b>Web Development</b>
+  - [PD Clinician Webportal](https://github.com/eightus/ITP2-Peritoneal-Dialysis)
+- <b>Human Computer Interaction</b>
+  - [AR PhysioLab](https://github.com/wyvernk/UnityProject)
+ 
 
 <!--
 **DeNhAiKal/DeNhAiKal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
