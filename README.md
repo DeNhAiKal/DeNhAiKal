@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Human Computer Interaction</b>
+  - [AR PhysioLab](https://github.com/wyvernk/UnityProject)
 - <b>Mobile Development</b>
   - [PDBuddy App](https://github.com/eightus/ITP-Peritoneal-Dialysis)
 - <b>Web Development</b>
   - [PD Clinician Webportal](https://github.com/eightus/ITP2-Peritoneal-Dialysis)
-- <b>Human Computer Interaction</b>
-  - [AR PhysioLab](https://github.com/wyvernk/UnityProject)
+
  
 
 <!--
