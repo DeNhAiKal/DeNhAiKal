@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Den! 👋
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Mobile Development</b>
+  - [PDBuddy App](https://github.com/eightus/ITP-Peritoneal-Dialysis)
 
 <!--
 **DeNhAiKal/DeNhAiKal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
